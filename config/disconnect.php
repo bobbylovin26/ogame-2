@@ -1,0 +1,3 @@
+﻿<?
+	mysql_close( $connect );
+?>
